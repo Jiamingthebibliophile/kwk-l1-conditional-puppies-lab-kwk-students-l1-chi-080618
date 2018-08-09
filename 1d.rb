@@ -1,4 +1,4 @@
-one_direction = {\
+one_direction = {
  "Zayn" => 25
  "Liam" => 24
  "Harry" => 24
