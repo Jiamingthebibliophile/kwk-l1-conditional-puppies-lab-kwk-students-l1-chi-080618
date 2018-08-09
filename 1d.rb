@@ -6,6 +6,6 @@ one_direction = {\
 }
 
 one_direction.each do |name, age|
-  hash[name] = age
+  puts[name] = age
   return hash
 end
