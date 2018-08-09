@@ -6,5 +6,7 @@ one_direction = {
 }
 
 one_direction.each do |name, age|
-  return[name] = age
+  
+  puts name, age
+  
 end
