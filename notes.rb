@@ -22,3 +22,23 @@ end
 puts new_array
 #this would output [1,2,3,4,5]
 adds 1 to each value in the array
+
+
+Hash: dictionary-like collection of unique keys and values 
+hash_name = {key => value}
+puts hash_name
+
+OR 
+
+puts hash_name ["key"]
+
+name_game = {
+    "Annie" => "Awesome",
+    "Seamus" => "Sassy",
+    "Ivey" => "Intelligent",
+    "Katelyn" => "Kind",
+    "Kate" => "Karing",
+}
+
+Arrays are a list 
+Hashes are a collection of pairs of info (key+value)
