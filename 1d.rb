@@ -7,6 +7,6 @@ one_direction = {
 
 one_direction.each do |name, age|
   
-  puts name, age
+  puts "#{name} is #{age} years old."
   
 end
